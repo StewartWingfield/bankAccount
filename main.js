@@ -33,7 +33,7 @@ class transaction {
     }
 }
 
- let newBankAccount = new bankAccount('1', '2')
+/*  let newBankAccount = new bankAccount('1', '2')
 console.log(newBankAccount) 
 
 console.log(newBankAccount)
@@ -44,4 +44,4 @@ console.log(newBankAccount)
 newBankAccount.charge('target', 50)
 console.log(newBankAccount)
 
-console.log(newBankAccount.balance())
+console.log(newBankAccount.balance()) */
